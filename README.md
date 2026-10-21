@@ -4,7 +4,7 @@ Welcome to my personal portfolio website.
 
 ## 🌐 Live Portfolio
 
-[View My Portfolio](https://portfolio-8ykf.onrender.com)
+[View My Portfolio](portfolio-g3njdi5ha-durga-709c.vercel.app)
 
 ## 🛠️ Technologies Used
 
