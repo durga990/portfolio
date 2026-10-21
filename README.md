@@ -4,7 +4,7 @@ Welcome to my personal portfolio website.
 
 ## 🌐 Live Portfolio
 
-[View My Portfolio](portfolio-durga-709c.vercel.app)
+[View My Portfolio](https://portfolio-durga-709c.vercel.app/)
 
 ## 🛠️ Technologies Used
 
